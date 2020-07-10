@@ -1,11 +1,5 @@
 import os
 
-#if os.path.exists('texto3.txt'):
-#	os.remove('texto3.txt')
-#	print('Archivo Eliminado')
-#else:
-#	print('El Archivo No Existe')
-
 print('<< MANEJO DE ARCHIVOS EN PYTHON >>\n')
 print('Si Desea Crear un Archivo Acontinuacion Escriba => a.')
 print('Si Desea Eliminar un Archivo Acontinuacion Escriba => d')
